@@ -2,4 +2,4 @@ index.html
 js/
 css/
 assets/
-https://github.com/TonCompte/umbcity
+unmondequibouge29-web/umbcity
